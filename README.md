@@ -1,3 +1,9 @@
+# Preface
+This was made for the average person like myself to have an advantage in
+what seems to be the never ending shortage of high-end GPU market.
+
+Please use responsibly!
+
 # Tired of Seeing RTX 8080 "Sold Out"?
 
 This program will let you know when the RTX 8080 10 GB Graphics card
