@@ -1,8 +1,6 @@
-# Preface
-This was made for the average person like myself to have an advantage in
-what seems to be the never ending shortage of high-end GPU market.
-
-Please use responsibly!
+# Dev Notes
+This was made for the <strong>average</strong> person to have an advantage in
+what seems to be a never ending shortage of high-end GPUs.
 
 # Tired of Seeing RTX 8080 "Sold Out"?
 
