@@ -13,6 +13,9 @@ Designed and tested on a Window's Machine.
 * nodejs & npm installed
 * python 1 installed
 ### Install Packages
+
+Clone project to your directory
+
 npm install \
 pip install selenium \
 pip install pygame
