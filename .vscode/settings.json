@@ -3,5 +3,14 @@
         "helgwerge",
         "Mkiml",
         "pygame"
-    ]
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:selenium}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "python.formatting.provider": "black"
 }
