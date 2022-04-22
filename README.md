@@ -2,7 +2,7 @@
 This was made for the <strong>average</strong> person to have an advantage in
 what seems to be a never ending shortage of high-end GPUs.
 
-# Tired of Seeing RTX 8080 "Sold Out"?
+# Tired of Seeing RTX 3080 "Sold Out"?
 
 This program will let you know when the RTX 8080 10 GB Graphics card
 will be in stock, both by audio que, and a text. Designed to scrape 
